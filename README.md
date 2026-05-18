@@ -1,39 +1,64 @@
-# Projects# Dennis Johnson | Analytics & AI Portfolio
+Dennis Johnson | Analytics & AI Portfolio
 
-Business Intelligence & Analytics and Supply Chain Management student at Saint Joseph’s University with experience in analytics, AI applications, workforce management, and business problem solving.
+Recent graduate from Saint Joseph’s University with degrees in Business Intelligence & Analytics and Supply Chain Management. Passionate about leveraging analytics, AI, and data-driven decision-making to solve business problems and improve operational performance.
 
-This portfolio contains selected academic, technical, and business projects focused on:
+This portfolio contains selected academic projects focused on:
 - Artificial Intelligence
 - Business Analytics
 - Supply Chain Analytics
 - Data Visualization
-- Process Improvement
 - Business Strategy
 
 ---
 
 # Featured Projects
 
-## AI HR Policy Assistant
+## PolicyPro - AI HR Policy Assistant
 
-AI-powered HR support agent designed to ingest HR policy documents and answer employee questions using natural language processing and retrieval-based AI techniques.
+PolicyPro is an AI-powered HR policy assistant that gives employees instant, accurate answers to their benefits and policy questions, grounded entirely in your company's own documents.
 
-### Project Highlights
-- Developed collaboratively as a team project
-- Built document ingestion and question-answering workflows
-- Enabled users to retrieve HR policy information conversationally
-- Applied prompt engineering and retrieval concepts
+Built as a final project for the Agentic AI & Prompt Engineering course at Saint Joseph’s University.
+
+### Project Overview
+PolicyPro ingests HR policy documents (PDF/DOCX), processes them into embeddings, and enables conversational Q&A with strict grounding and compliance controls. The system is designed to ensure responses are traceable, policy-aligned, and safe for HR use cases.
+
+
+### Key Features
+- Multi-agent architecture with orchestrated workflow (Orchestrator → Governor → Reasoning → Review)
+- Retrieval-Augmented Generation (RAG) using locally stored document embeddings
+- Citation-based answers grounded in uploaded HR policy documents
+- Prompt injection and PII detection layer before reasoning begins
+- Compliance and escalation system for sensitive HR topics
+- Audit logging of all interactions for traceability
+
+### Model & Architecture
+- Local LLM: Llama 3.2 via Ollama (default, fully offline)
+- Optional cloud mode: GPT-4o mini for enhanced reasoning
+- Embeddings: nomic-embed-text via Ollama
+- Vector database: ChromaDB (per-user isolation)
+
+### Security & Compliance Design
+- Prompt injection and sensitive content filtering before response generation
+- Automatic escalation of legal/HR-sensitive queries
+- Final response review layer for grounding, tone, and policy alignment
+- Audit log tracking (user, query, response, timestamp)
 
 ### Technologies Used
 - Python
-- Large Language Models (LLMs)
+- Ollama (Llama 3.2)
+- OpenAI API (optional GPT-4o mini mode)
+- ChromaDB
 - Retrieval-Augmented Generation (RAG)
-- Git/GitHub
+- Multi-agent system design
 
-### Repository
+### Contributors
+- Dennis Johnson  
+- Nick Zywalewski  
+
+### Repository*
 [View Project Repository](PASTE-GITHUB-LINK-HERE)
 
-### Preview
+### Preview*
 Add screenshots here
 
 ---
