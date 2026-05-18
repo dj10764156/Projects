@@ -58,7 +58,7 @@ PolicyPro ingests HR policy documents (PDF/DOCX), processes them into embeddings
 ### Repository
 [View Project Repository](https://github.com/nick-zywalewski/AgenticAI_FinalProject)
 
-### Preview*
+### Preview
 
 ### 1. AI Chat Interface
 
