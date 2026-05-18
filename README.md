@@ -99,29 +99,17 @@ Collection of Tableau projects focused on business intelligence, KPI reporting, 
 ### Tools Used
 - Tableau
 - Excel
+- Alteryx
+- JMP
 - Data Cleaning
 - Dashboard Design
 
 ### Portfolio Links
-- [Dashboard Project 1](PASTE-LINK)
-- [Dashboard Project 2](PASTE-LINK)
+- [Access to Drinking Water and Sanitation by Country](PASTE-LINK)
+- [Bird Strike Trends](PASTE-LINK)
+- [Merck SDG Commitments](PASTE-LINK)
+- [MLB Best Pitch 2024](PASTE-LINK)
 
----
-
-## Business & Strategy Presentations
-
-Academic and professional presentations focused on supply chain management, operations, and business analysis.
-
-### Topics Included
-- Supply Chain Case Studies
-- Operational Analysis
-- Healthcare Supply Chain
-- Strategic Recommendations
-
-### Formats
-- PowerPoint Presentations
-- Business Reports
-- Analytical Summaries
 
 ---
 
@@ -130,7 +118,8 @@ Academic and professional presentations focused on supply chain management, oper
 ## Analytics & Data
 - Tableau
 - Excel
-- SQL
+- Alteryx
+- JMP
 - Data Visualization
 - Business Analytics
 
@@ -141,20 +130,16 @@ Academic and professional presentations focused on supply chain management, oper
 - Git/GitHub
 
 ## Business Areas
-- Supply Chain Management
 - Workforce Analytics
+- Supply Chain Management
 - Process Improvement
-- Operations Analysis
-
----
-
-# About Me
-
-I am passionate about leveraging analytics and technology to solve business problems and improve decision-making. My interests include AI applications in business, operational analytics, supply chain strategy, and data-driven process improvement.
+- Operational Analysis
 
 ---
 
 # Contact
 
-- LinkedIn: PASTE-LINKEDIN-LINK
-- GitHub: PASTE-GITHUB-PROFILE
+- LinkedIn: (www.linkedin.com/in/dennis-johnson-121346296)
+
+- Tableau: (https://public.tableau.com/app/profile/dennis.johnson6387/vizzes)
+
