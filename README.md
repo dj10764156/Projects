@@ -74,7 +74,7 @@ Users can upload HR policy documents (PDF or DOCX), which are automatically chun
 
 ### 3. Grounded Responses with Citations
 
-![Citations/Response](images/citations.png)
+![Citations and Response](images/citations.png)
 
 All answers are grounded in uploaded HR documents, with source references to ensure transparency and reduce hallucinations.
 
