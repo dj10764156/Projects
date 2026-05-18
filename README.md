@@ -88,28 +88,52 @@ All answers are grounded in uploaded HR documents, with source references to ens
 
 ## Tableau Dashboards
 
-Collection of Tableau projects focused on business intelligence, KPI reporting, and operational analytics.
+A collection of Tableau-based data visualization projects focused on operational insights and business intelligence, created during my time at Saint Joseph’s University.
 
 ### Areas Covered
-- Supply Chain Analytics
-- Operational Performance
-- Data Visualization
-- Executive Dashboards
+- Supply Chain & Global Development Analytics
+- Operational Risk Analysis
+- Sustainability & ESG Reporting
+- Sports Analytics
+- Data Visualization & Dashboard Design
 
 ### Tools Used
 - Tableau
 - Excel
 - Alteryx
 - JMP
-- Data Cleaning
+- Data Cleaning & Transformation
 - Dashboard Design
 
-### Portfolio Links
-- [Access to Drinking Water and Sanitation by Country](PASTE-LINK)
-- [Bird Strike Trends](PASTE-LINK)
-- [Merck SDG Commitments](PASTE-LINK)
-- [MLB Best Pitch 2024](PASTE-LINK)
+---
 
+## Featured Dashboards
+
+### MLB Best Pitch 2024
+Sports analytics dashboard evaluating MLB pitch performance using key metrics such as velocity, spin rate, and effectiveness to identify top-performing pitches.
+
+[View Dashboard](https://public.tableau.com/views/MLBBestPitch2024/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### Access to Drinking Water and Sanitation by Country
+Interactive global analysis of access to clean drinking water and sanitation services, highlighting disparities across regions, income levels, and development indicators.
+
+[View Dashboard](https://public.tableau.com/views/AccesstoDrinkingWaterandSanitationbyCountry/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### Merck SDG Commitments
+Sustainability-focused dashboard tracking Merck’s progress toward UN Sustainable Development Goals, emphasizing environmental and social impact metrics.
+
+[View Dashboard](https://public.tableau.com/views/MerckSDGCommitments_17319683303880/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+
+### Bird Strike Trends
+Analytical dashboard exploring bird strike incidents in aviation, identifying seasonal patterns, geographic hotspots, and operational risk trends over time.
+
+[View Dashboard](https://public.tableau.com/views/BirdStrikeTrends/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
