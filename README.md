@@ -62,25 +62,25 @@ PolicyPro ingests HR policy documents (PDF/DOCX), processes them into embeddings
 
 ### 1. AI Chat Interface
 
-![Chat](file:///Users/dennispaul/Documents/Chat%20Interface%20Overview.png)
+![Chat](images/chat.png)
 
-This is PolicyPro interface where users can ask HR policy questions and receive AI-generated, citation-backed responses.
+This is the PolicyPro interface where users can ask HR policy questions and receive AI-generated, citation-backed responses.
 
 ### 2. Document Ingestion
 
-![Upload](file:///Users/dennispaul/Documents/Document%20Ingestion.png)
+![Upload](images/upload.png)
 
 Users can upload HR policy documents (PDF or DOCX), which are automatically chunked and embedded for retrieval.
 
 ### 3. Grounded Responses with Citations
 
-![Response/Citations](file:///Users/dennispaul/Documents/Policy%20Response%20:%20Citation.png)
+![Citations/Response](images/citations.png)
 
 All answers are grounded in uploaded HR documents, with source references to ensure transparency and reduce hallucinations.
 
 ### 4. Multi-Agent Architecture
 
-![Architecture](file:///Users/dennispaul/Documents/Architecture%20Diagram.png)
+![Architecture](images/architecture.png)
 
 All answers are grounded in uploaded HR documents, with source references to ensure transparency and reduce hallucinations.
 
