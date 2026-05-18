@@ -62,25 +62,25 @@ PolicyPro ingests HR policy documents (PDF/DOCX), processes them into embeddings
 
 ### 1. AI Chat Interface
 
-![Chat](<img width="1447" height="799" alt="Chat Interface Overview" src="https://github.com/user-attachments/assets/e9092d7e-2be6-41d5-9d04-1ea350167ff0" />)
+![Chat](file:///Users/dennispaul/Documents/Chat%20Interface%20Overview.png)
 
 This is PolicyPro interface where users can ask HR policy questions and receive AI-generated, citation-backed responses.
 
 ### 2. Document Ingestion
 
-![Upload](<img width="521" height="493" alt="Document Ingestion" src="https://github.com/user-attachments/assets/f14c03b9-07e4-4e68-ab4d-09f516f52319" />)
+![Upload](file:///Users/dennispaul/Documents/Document%20Ingestion.png)
 
 Users can upload HR policy documents (PDF or DOCX), which are automatically chunked and embedded for retrieval.
 
 ### 3. Grounded Responses with Citations
 
-![Citations](<img width="1444" height="784" alt="Policy Response : Citation" src="https://github.com/user-attachments/assets/7b6a5b64-5896-41b4-9d88-014f331e48cc" />)
+![Response/Citations](file:///Users/dennispaul/Documents/Policy%20Response%20:%20Citation.png)
 
 All answers are grounded in uploaded HR documents, with source references to ensure transparency and reduce hallucinations.
 
 ### 4. Multi-Agent Architecture
 
-![Architecture](<img width="959" height="538" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/d1f6f6d9-d9be-47db-a74e-045b1a204595" />)
+![Architecture](file:///Users/dennispaul/Documents/Architecture%20Diagram.png)
 
 All answers are grounded in uploaded HR documents, with source references to ensure transparency and reduce hallucinations.
 
