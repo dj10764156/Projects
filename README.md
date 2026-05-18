@@ -1,4 +1,4 @@
-Dennis Johnson | Analytics & AI Portfolio
+**Dennis Johnson | Analytics & AI Portfolio**
 
 Recent graduate from Saint Joseph’s University with degrees in Business Intelligence & Analytics and Supply Chain Management. Passionate about leveraging analytics, AI, and data-driven decision-making to solve business problems and improve operational performance.
 
